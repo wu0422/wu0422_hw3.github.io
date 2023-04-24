@@ -1,0 +1,53 @@
+button{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    flex: none;
+    align-items:center;
+    text-decoration: none;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 100px 200px;
+}
+body {
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+    overflow-y: scroll;
+    direction: ltr;
+    unicode-bidi: isolate;
+}
+
+#loginform {
+    justify-content: flex-start;
+    overflow-y: scroll;
+    direction: ltr;
+    unicode-bidi: isolate;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 100px 200px;
+}
+
+_xkt {
+    overflow-y: scroll;
+    direction: ltr;
+    unicode-bidi: isolate;
+}
+input{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    flex: none;
+    align-items:center;
+    text-decoration: none;
+}
+_42ft _4jy0 _52e0 _4jy6 _4jy1 selected _51sy{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    flex: none;
+    align-items:center;
+    text-decoration: none;
+
+}
